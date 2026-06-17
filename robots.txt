@@ -1,0 +1,11 @@
+# robots.txt for GitHub Pages SEO test
+# First deployment:
+# https://YWeakest-Ai.github.io/
+# After Cloudflare custom domain is ready, replace the sitemap URL below.
+
+User-agent: *
+Allow: /
+
+# If later you add pages that should not be indexed, add Disallow rules here.
+
+Sitemap: https://Weakest-Ai.github.io/sitemap.xml
